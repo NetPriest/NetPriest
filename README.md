@@ -1,5 +1,7 @@
-<h1 align="center">Hey there👋! Really nice to see you here!</h1>
+<h1 align="center">Hey there👋! Really nice to see you !</h1>
 <h3 align="center">Welcome to my page!</h3>
+
+  My name is Kiril Dobrev and I am from 🇧🇬
 
 - 🌱 I’m currently learning **C/C++,C#,Java,Phyton,Linux,Bash**
 
