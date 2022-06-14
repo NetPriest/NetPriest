@@ -1,7 +1,7 @@
 <h1 align="center">Hey there👋! Really nice to see you !</h1>
 <h3 align="center">Welcome to my page!</h3>
 
-  My name is Kiril Dobrev and I am from Bulgaria.
+  My name is Kiril Dobrev and I am from Bulgaria. :bulgaria:
   
 - 🌱 I’m currently learning **C/C++,C#,Java,Phyton,Linux,Bash,x86 ASM**
 
