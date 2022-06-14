@@ -3,7 +3,7 @@
 
   My name is Kiril Dobrev and I am from Bulgaria.
   
-- 🌱 I’m currently learning **C/C++,C#,Java,Phyton,Linux,Bash**
+- 🌱 I’m currently learning **C/C++,C#,Java,Phyton,Linux,Bash,x86 ASM**
 
 - <h3 align="left">I code with:</h3>
 
