@@ -5,7 +5,7 @@
 </h1>
 
 <img align="right" width=100px alt="Dudu" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-<br>
+
 
 I'm Kiril, from <b>Bulgaria</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197502.png" width="12"/>
 <br>
@@ -15,7 +15,10 @@ Software Engineer/Computer Science student at Plovdiv University "Paisii Hilenda
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></p></b>
 I love to learn and build something new, hard, productive, innovative and creative.
 <br>
-- 🌱 I’m currently learning <b><p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p></b>
+- 🌱 I’m currently learning <b><p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+<br>
+<img align="left" alt="GitHub followers" src="https://img.shields.io/github/followers/NetPriest?color=Green&label=Followers">
+<img align="left" alt="GitHub watchers" src="https://img.shields.io/github/watchers/NetPriest/NetPriest?color=red&label=Watchers">
 <br>
 <h2 align="left">My Stats</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=netpriest&show_icons=true&locale=en" alt="netpriest" />
