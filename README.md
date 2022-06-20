@@ -4,7 +4,8 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="center" width=100px alt="Dudu" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<br>
 
 I'm Kiril, from <b>Bulgaria</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197502.png" width="12"/>
 <br>
