@@ -4,9 +4,6 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-<img align="right" width=100px alt="Dudu" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
-
 I'm Kiril, from <b>Bulgaria</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197502.png" width="12"/>
 <br>
 Software Engineer/Computer Science student at Plovdiv University "Paisii Hilendarski" at the Faculty of Mathematics and Informatics.
@@ -29,5 +26,5 @@ I love to learn and build something new, hard, productive, innovative and creati
 
 **Credits**: [NetPriest](https://github.com/NetPriest)
 
-**Last Edited on**: 20/06/2022
+**Last Edited on**: 12/10/2023
  
